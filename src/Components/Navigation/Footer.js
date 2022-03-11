@@ -69,7 +69,7 @@ export default function Footer() {
             <div className="col-lg-4">
               <h2>Contact us</h2>
               <h5>
-                <FontAwesomeIcon icon={faMapMarker} className="footer-icons" />
+                <FontAwesomeIcon icon={faEnvelope} className="footer-icons" />
                 DANG HOANG SON - CEO 
               </h5>
               <h5>
@@ -77,12 +77,12 @@ export default function Footer() {
                 +2111 555 555 54
               </h5>
               <h5>
-                <FontAwesomeIcon icon={faEnvelope} className="footer-icons" />{" "}
+                <FontAwesomeIcon icon={faGlobe} className="footer-icons" />{" "}
                 info@MyLaptop.com
               </h5>
               <h5>
-                <FontAwesomeIcon icon={faGlobe} className="footer-icons" />{" "}
-                www.MyLaptop.com
+                <FontAwesomeIcon icon={faMapMarker} className="footer-icons" />{" "}
+                301 Thành Thái, phường 14, quận 10,  Tp. Hồ Chí Minh.
               </h5>
 
               <h3> Customer Care</h3>
